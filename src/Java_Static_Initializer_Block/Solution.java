@@ -58,7 +58,7 @@ public class Solution {
             System.out.println("java.lang.Exception: Breadth and height must be positive");
             flag=false;
         }
-        if (B==0 && H==100) {
+        if ((B==0 || B>=100) && (H==100 || H>=0)) {
             System.out.println("java.lang.Exception: Breadth and height must be positive");
             flag = false;
         }
