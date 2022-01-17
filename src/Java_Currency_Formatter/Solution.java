@@ -41,7 +41,6 @@ Explanation
 Each line contains the value of  formatted according to the four countries' respective currencies.
  */
 
-import javax.swing.text.NumberFormatter;
 import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
