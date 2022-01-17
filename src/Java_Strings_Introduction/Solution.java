@@ -66,6 +66,6 @@ public class Solution {
         {
             System.out.println("No");
         }
-        System.out.println(A.substring(0,1).toUpperCase(Locale.ROOT)+A.substring(1)+" "+B.substring(0,1).toUpperCase(Locale.ROOT)+B.substring(1));
+        System.out.println(A.substring(0,1).toUpperCase()+A.substring(1)+" "+B.substring(0,1).toUpperCase()+B.substring(1));
     }
 }
