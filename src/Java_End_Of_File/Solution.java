@@ -1,8 +1,8 @@
-package End_Of_File;
+package Java_End_Of_File;
 
 /*
 
-   ---->  End of File
+   ---->  Java End of File
 
 "In computing, End Of File (commonly abbreviated EOF) is a condition in a computer operating system where no more data can be read from a data source." — (Wikipedia: End-of-file)
 
